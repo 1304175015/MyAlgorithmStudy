@@ -55,7 +55,7 @@ public class MyLinkedTest {
 	 * @date: 2025年7月5日 上午9:16:14
 	 * @description: TODO
 	 */
-	private static void printLinkedList(ListNode head) {
+	public static void printLinkedList(ListNode head) {
 		// TODO Auto-generated method stub
 		while (head != null) {
 			System.out.print(head.value + "-->");
