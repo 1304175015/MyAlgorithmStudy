@@ -30,3 +30,10 @@ logs/
 # 系统文件
 .DS_Store
 Thumbs.db
+/checkstyle-idea.xml
+/git_toolbox_prj.xml
+/MarsCodeWorkspaceAppSettings.xml
+/misc.xml
+/modules.xml
+/inspectionProfiles/Project_Default.xml
+/vcs.xml
