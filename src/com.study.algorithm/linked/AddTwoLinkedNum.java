@@ -1,7 +1,7 @@
 /**
  * 
  */
-package linked;
+package com.study.algorithm.linked;
 
 import linked.MyLinkedTest.ListNode;
 

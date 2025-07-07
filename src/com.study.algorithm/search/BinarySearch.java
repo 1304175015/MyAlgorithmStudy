@@ -1,7 +1,7 @@
 /**
  * 
  */
-package search;
+package com.study.algorithm.search;
 
 import java.util.Arrays;
 

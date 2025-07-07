@@ -1,7 +1,7 @@
 /**
  * 
  */
-package sort;
+package com.study.algorithm.sort;
 
 import java.util.Arrays;
 

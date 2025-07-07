@@ -1,7 +1,7 @@
 /**
  * 
  */
-package queuestack;
+package com.study.algorithm.queuestack;
 
 /**
  * @author 作者 :yjp

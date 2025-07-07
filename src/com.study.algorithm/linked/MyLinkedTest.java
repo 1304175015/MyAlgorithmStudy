@@ -1,7 +1,7 @@
 /**
  * 
  */
-package linked;
+package com.study.algorithm.linked;
 
 /**
  * @author 作者 :yjp

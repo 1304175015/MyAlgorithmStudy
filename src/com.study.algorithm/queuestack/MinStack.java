@@ -1,7 +1,7 @@
 /**
  * 
  */
-package queuestack;
+package com.study.algorithm.queuestack;
 
 import java.util.Stack;
 
